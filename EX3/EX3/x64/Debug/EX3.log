@@ -1,0 +1,14 @@
+﻿  helper.cpp
+C:\Users\97250\Desktop\שנה ג\תקשורת\תרגיל 3\EX3\EX3\helper.cpp(12,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\97250\Desktop\שנה ג\תקשורת\תרגיל 3\EX3\EX3\helper.cpp(15,46): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\97250\Desktop\שנה ג\תקשורת\תרגיל 3\EX3\EX3\helper.cpp(8,8): warning C4101: 'token': unreferenced local variable
+C:\Users\97250\Desktop\שנה ג\תקשורת\תרגיל 3\EX3\EX3\helper.cpp(40,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\97250\Desktop\שנה ג\תקשורת\תרגיל 3\EX3\EX3\helper.cpp(51,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\97250\Desktop\שנה ג\תקשורת\תרגיל 3\EX3\EX3\helper.cpp(54,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\97250\Desktop\שנה ג\תקשורת\תרגיל 3\EX3\EX3\helper.cpp(55,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\97250\Desktop\שנה ג\תקשורת\תרגיל 3\EX3\EX3\helper.cpp(140,34): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TCPserver.cpp
+C:\Users\97250\Desktop\שנה ג\תקשורת\תרגיל 3\EX3\EX3\TCPserver.cpp(50,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\97250\Desktop\שנה ג\תקשורת\תרגיל 3\EX3\EX3\TCPserver.cpp(368,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  EX3.vcxproj -> C:\Users\97250\Desktop\שנה ג\תקשורת\תרגיל 3\EX3\x64\Debug\EX3.exe
